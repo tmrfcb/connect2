@@ -1,0 +1,4 @@
+org.springframework.test.context.ContextCustomizerFactory = com.tmrfcb.connect2.\
+    config.TestContainersSpringContextCustomizerFactory,com.tmrfcb.connect2.\
+    config.SqlTestContainersSpringContextCustomizerFactory,com.tmrfcb.connect2.\
+    config.KafkaTestContainersSpringContextCustomizerFactory
